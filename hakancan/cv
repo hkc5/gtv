@@ -1,0 +1,113 @@
+\documentclass{article}
+\usepackage{bookmark}
+\usepackage{calc}
+\usepackage[top=0.4in,bottom=0.3in,right=0.5in,left=0.5in]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{tgbonum}
+\usepackage{fontawesome}
+
+\setlist[enumerate]{topsep=0pt}
+\setlist[itemize]{noitemsep,topsep=0pt}
+
+\newlength{\remaining}
+\renewcommand{\section}[1]{
+  \vspace{1.0em}\setlength{\remaining}{\textwidth-\widthof{\uppercase{#1}}}
+    \noindent\underline{\fontsize{10}{15}\bfseries\uppercase{#1}\hspace*{\remaining}} \\
+}
+
+\renewcommand{\subsection}[3]{
+    \noindent\textbf{#1} | \emph{#2} \hfill #3  
+}
+
+\begin{document}
+    \fontencoding{T1}
+    \fontfamily{phv}
+    \fontsize{10}{15}
+    \selectfont
+
+    \begin{center}
+        \Huge\bfseries Hakancan Ozturk
+    \end{center}
+    
+    \begin{center}
+        \begin{tabular}{c c c c c}
+            \href{mailto:hakancan.ozturk23@gmail.com}{\small hakancan.ozturk23@gmail.com  } $\bullet$ & 
+            \href{tel:+44 7436010077}{\small +44 7436010077  } $\bullet$ & 
+            \href{https://www.linkedin.com/in/hakancan}{\small \faLinkedinSquare \space linkedin/hakancan} $\bullet$ & 
+            \href{https://www.github.com/hkc5} {\small \faGithub \space github/hkc5 } $\bullet$ &  
+            \href{https://www.hakancanozturk.com}{\small hakancanozturk.com} \\
+        \end{tabular}   
+    \end{center}
+    
+    \vspace{-0.75em}
+    
+
+    \section{Professional Experience}
+    \subsection{Software Development Engineer}{\textbf{Amazon} - London, UK}{01/2025 - Present}
+    \begin{itemize}
+        \item Migrating Prime Video UI elements from \textbf{React} to \textbf{SolidJS} to enhance performance, leveraging \textbf{LLM-powered automation pipelines} for efficient component refactoring and codebase optimization.
+        \item Pioneered the use of \textbf{LLM agents} (Python) connected via \textbf{MCP} to perform real-time analysis on over 10 million Prime Video operational metrics, enabling rapid detection of system regressions (Project won London-wide hackathon).
+    \end{itemize}
+
+    \subsection{Founding Engineer}{\textbf{Albus Technologies} - London, UK}{05/2024 - 01/2025}
+    \begin{itemize}
+        \item Engineered and optimized a scalable \textbf{Retrieval-Augmented Generation (RAG)} system with context-enriched vector search, boosting retrieval relevance by 30\% and serving 100K+ customers.
+        \item Developed scalable real-time \textbf{Document Semantic Extraction} pipelines and \textbf{LLM agents} using \textbf{AWS} (Lambda, S3, SQS, EC2), processing millions of PDF pages and over 50K minutes of audio.
+        \item Established automated \textbf{CI/CD} workflows (Docker, GitHub Actions) to deploy \textbf{FastAPI} and \textbf{Lambda} endpoints, enabling dozens of concurrent file uploads with low-latency, robust production.
+    \end{itemize}
+    
+
+    \subsection{Computing Researcher}{\textbf{Max Planck Institute} - Stuttgart, Germany}{06/2022 - 12/2022}
+    \begin{itemize}
+        \item Enhanced robotics dynamics prediction by deploying ML data pipelines (SVMs, curve fits) analyzing 10TB simulation data; optimized CFD simulations via novel HPC scheduling, achieving 200x speedup, enabling 3 publications.
+    \end{itemize}
+
+
+    \section{Education}
+    \subsection{Imperial College London}{MSc in Applied Computational Science and Engineering}{09/2023-09/2024} \\
+    Highest overall grade in class | Class representative  \hfill Distinction (78.27\%) \\
+    \textit{Modules:} Machine/Deep Learning, Numerical Methods, Computational Maths, Optimization
+    
+    \vspace{0.25em}
+
+    \subsection{Koc University}{BSc in Mechanical Engineering}{2020-2023} \\
+    Ranked 1st in class | Graduated one year early | Merit scholarship (\$30k annually) \hfill GPA: 3.99/4.00
+
+    \section{Projects}
+    \subsection{MSc Dissertation: AI Surrogate Modeling for Turbulent Flow Simulations}{Imperial College London}{2024 - 2025} 
+    \begin{itemize} 
+        \item Discovered a novel \textbf{Grid-Invariant AI architecture} (PyTorch) combining convolutional autoencoders and adversarial networks to simulate high-fidelity \textbf{turbulent flows}, achieving unprecedented \textbf{grid independence} and scalability.
+        \item Conducted \textbf{2000+ GPU hours} of High-Performance Computing (HPC) for model optimization, enhancing \textbf{long-term stability} by 35\% and prediction accuracy by 50\%.
+        \item Actively open-sourcing advancements (manuscripts in prep/review), with project development backed by \textbf{NVIDIA}.
+    \end{itemize}
+
+    \subsection{Advanced Collagen Fiber Orientation Analysis}{Pekkan Biofluid Mechanics Laboratory}{2023 – 2024}
+    \begin{itemize}
+        \item Directed advanced bio-imaging analysis (FFT, SVR, CNNs) achieving 95\% accuracy in collagen orientation prediction, while also implementing novel Generative Diffusion Models (PyTorch) for 10x biological data augmentation.
+    \end{itemize}
+
+    \section{Skills \& Publications}
+    \textbf{Languages \& Libraries}: Python, Javascript, C++, MATLAB, PyTorch, scikit-learn, pandas, numpy, FastAPI, React \\
+\textbf{Cloud \& DevOps}: Docker, AWS, Github Actions, HPC, Parallel Computing, High-Performance Computing
+% \textbf{Engineering Software}: COMSOL (CFD), ANSYS (Mechanics, Fluent), Siemens NX
+
+\subsection{Publications}{4 papers with 19 citations}{}{}
+\begin{itemize}
+    \item \small \textit{Microrobotic Locomotion in Blood Vessels: A Computational Study on the Performance...} \textbf{Advanced Intelligent Systems}, 2023.
+    \item \small \textit{The Mismatch between Experimental and CFD Analyses for Magnetic Surface Microrollers} \textbf{Nature Scientific Reports}, 2023.
+    \item \small \textit{Learning-Enhanced 3D Fiber Orientation Mapping in Thick Cardiac Tissues} \textbf{Optica Open}, 2025.
+    \item \small \textit{Anisotropic Surface Microrollers for Endovascular Navigation: Computational Analysis} \textbf{Advanced Theory and Simulations}, 2025.
+\end{itemize}
+
+\section{Achievements \& Awards}
+\vspace{-1.25em}
+\begin{itemize}
+    \item Y Combinator AI Startup School (San Francisco, 2025): Selected among top 2000 CS students/grads globally.
+    \item Viridien \& Imperial Hackathon Winner: Developed ML models for Carbon Capture \& Seismic Data Analysis.
+    \item High School Entrance Exam: Ranked 1st/1M; University Entrance Exam: Ranked 300th/2M (Turkey); IELTS: 8.0.
+    % \item KPMG Ideation Challenge National Winner (Turkey): Co-developed an ML-driven mental wellness application.
+    % \item AP Scores: Chemistry (5/5), Calculus (5/5).
+    \end{itemize}
+
+\end{document}
