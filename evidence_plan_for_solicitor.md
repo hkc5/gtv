@@ -7,8 +7,8 @@
 - **Current Role**: Software Development Engineer, Amazon Prime Video
 
 ## Required Documents Structure
-- **Mandatory Criteria**: Need to show recognition as potential leading talent (3 evidence files)
-- **Optional Criteria**: Need to meet 2 out of 4 criteria (7 evidence files)
+- **Mandatory Criteria**: Need to show recognition as potential leading talent (2-3 evidence files)
+- **Optional Criteria**: Need to meet 2 out of 4 criteria (4-5 evidence files each)
 - **Total**: 10 evidence files (max 3 pages each)
 - **Letters of Recommendation**: 3 letters from established experts
 
@@ -16,32 +16,30 @@
 
 ## 10 Evidence Files Plan
 
-### MANDATORY CRITERIA (3 files)
-*Showing recognition as potential leading talent in digital technology*
+### MANDATORY CRITERIA (2-3 files)
+*Showing recognition as having POTENTIAL to be a leading talent in digital technology field in last 5 years*
 
-**MC1: Academic Excellence & Research Publications**
-- 4 published papers in reputable journals with citations:
-  - Nature Scientific Reports (2023)
-  - Advanced Intelligent Systems (2023) 
-  - Optica Open (2025)
-  - Advanced Theory and Simulations (2025)
-- Include: Paper abstracts, citation counts, journal impact factors
-- External validation: Google Scholar profile, journal websites
+**MC1: Professional Recognition at Albus Technologies**
+- Founding Engineer role at generative AI startup (100K+ users)
+- Technical leadership during fundraising phase
+- RAG system development serving enterprise customers
+- Include: Company documentation, user metrics, role confirmation, investor testimonials
+- External validation: Company website, LinkedIn profiles, investor letters
 
-**MC2: Professional Recognition & Awards**
+**MC2: Academic Excellence & Awards Recognition**
+- Y Combinator AI Startup School selection (Top 2,000 globally out of ~50,000 applicants)
 - 1st ranking student at Koc University (Mechanical Engineering)
-- Distinction at Imperial College London (MSc)
-- Y Combinator AI Startup School selection (Top 2,000 globally)
-- Hackathon wins: Imperial College x Viridien, CGG Seismic, KPMG Ideation Challenge
-- Include: Official certificates, ranking documentation, selection notifications
-- External validation: University websites, Y Combinator listings
+- Distinction at Imperial College London (MSc) - highest grade in class
+- Multiple hackathon wins (Imperial x Viridien, CGG Seismic, KPMG Ideation Challenge)
+- Include: Official certificates, selection notifications, ranking documentation
+- External validation: Y Combinator listings, university websites, competition results
 
-**MC3: Industry Impact at Albus Technologies**
-- Founding Engineer role at generative AI startup
-- RAG system serving 100K+ users
-- Technical contributions during fundraising phase
-- Include: Company documentation, user metrics, role confirmation
-- External validation: Company website, LinkedIn profiles of team/investors
+**MC3: Research Publications & Industry Recognition**
+- 4 published papers in reputable journals (Nature Scientific Reports, Advanced Intelligent Systems, etc.)
+- Amazon hackathon win (London-wide competition)
+- Research collaboration with Max Planck Institute
+- Include: Paper abstracts, citation counts, hackathon documentation, research collaboration evidence
+- External validation: Journal websites, Google Scholar, Amazon internal systems
 
 ---
 
@@ -66,8 +64,8 @@
 **OC2-3: Community Engagement & Open Source**
 - Future open-source contributions (MSc dissertation work backed by NVIDIA)
 - Research collaboration plans with Imperial College
-- Include: NVIDIA backing documentation, research collaboration agreements
-- External validation: NVIDIA correspondence, Imperial College confirmations
+- Include: Research collaboration agreements, open-source project plans, NVIDIA backing documentation
+- External validation: Imperial College confirmations, GitHub repositories, NVIDIA correspondence
 
 ---
 
@@ -92,15 +90,15 @@
 - 200x speedup achievement in COMSOL simulations
 - ML data pipeline development for robotics dynamics
 - 3 published papers resulting from research contributions
-- Include: Research documentation, performance improvements, publication records
-- External validation: Institute records, published papers
+- Include: Research documentation, performance improvements, publication records, letter from Ugur Bozuyuk (PhD collaborator, now startup founder)
+- External validation: Institute records, published papers, collaborator testimonial
 
 **OC3-4: Imperial College MSc Research (NVIDIA-backed)**
 - Novel Grid-Invariant AI architecture for turbulent flow simulations
 - 2000+ GPU hours of HPC optimization
 - 35% improvement in long-term stability, 50% accuracy improvement
 - Include: Technical documentation, performance metrics, NVIDIA backing evidence
-- External validation: NVIDIA correspondence, supervisor testimonials
+- External validation: Supervisor testimonials, Imperial College records
 
 ---
 
@@ -126,7 +124,7 @@
 
 ### Letter 3: Prof. Christopher Pain
 - **Position**: Head of Applied Computation and Modelling Group, Imperial College London
-- **Relationship**: MSc supervisor for NVIDIA-backed research
+- **Relationship**: MSc supervisor for dissertation research
 - **Focus Areas**:
   - Advanced research capabilities
   - Technical innovation (Grid-Invariant AI)
@@ -135,11 +133,36 @@
 
 ---
 
+## Key External Validations
+
+### Academic Validations
+- Google Scholar profile with publication records
+- University official transcripts and certificates
+- Journal websites confirming publications
+- Citation tracking systems
+
+### Professional Validations
+- LinkedIn profiles (yours and collaborators)
+- Company websites and documentation
+- GitHub repositories (if applicable)
+- YouTube talk analytics and engagement metrics
+
+### Recognition Validations
+- Y Combinator official listings
+- Hackathon event websites and results
+- University program websites
+- Amazon University Engagement Program documentation
+
+---
+
 ## Application Form Key Details
 
 **Sector**: AI & Machine Learning
 **Specialist Skill**: Software Engineer
-**Career Length**: ~3 years in digital technology sector
+**Career Length**: ~2 years in digital technology sector
+- Max Planck Institute research (June 2022 - December 2022): 6 months
+- Albus Technologies (May 2024 - January 2025): 8 months  
+- Amazon (January 2025 - Present): 6 months
 **Current Employment**: 
 - Amazon UK Ltd
 - Software Development Engineer
@@ -151,4 +174,24 @@
 - Founding Engineer
 
 **Active Businesses**: None currently
-**Dissolved Businesses**: None 
+**Dissolved Businesses**: None
+
+---
+
+## Next Steps for Evidence Gathering
+
+### Immediate Actions Needed:
+1. **Academic documents**: Collect all certificates, transcripts, ranking documentation
+2. **Publication documentation**: Gather citation counts, journal impact factors
+3. **Mentoring evidence**: Get program confirmations, student testimonials
+4. **Technical documentation**: Collect high-level design docs from Amazon/Albus
+5. **External validations**: Ensure all LinkedIn profiles are updated and consistent
+
+### Documentation Format:
+- All evidence files max 3 pages each
+- Include explanatory text boxes and annotations
+- Use charts/graphs for metrics where possible
+- Ensure external validation links are accessible
+- Maintain consistent naming convention
+
+This evidence plan provides a strong foundation for Exceptional Promise route, focusing on your technical innovation, academic excellence, and community contributions while ensuring external validation for all claims.
