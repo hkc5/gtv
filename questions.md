@@ -1,22 +1,44 @@
-# Remaining Questions for Global Talent Visa Application
+# CRITICAL INFORMATION NEEDED - IMMEDIATE ACTION REQUIRED
 
-## Technical Contributions
+## URGENT: CV Impact Metrics (Needed This Week)
 
-1. Amazon Prime Video Work:
-   - Can you provide more details about the LLM-powered automation pipelines?
-   - What was the specific impact of migrating from React to SolidJS?
-   - Can you get metrics on performance improvements?
+### Amazon Prime Video - BUSINESS IMPACT:
+1. **Scale & Recognition**:
+   - How big was the London-wide hackathon you won? (X participants)
+   - Your internal tech talks - confirm 200+ attendees
+   - Any internal awards or recognition for your work?
 
-2. Albus Technologies:
-   - Can you get specific user metrics (100K+ users)?
-   - What was the exact improvement in RAG system performance?
-   - Can you get a letter from investors about your technical contributions?
-   - Do you have any documentation about the LoRA models and diffusion models you worked on?
+2. **Leadership Evidence**:
+   - Did you lead any teams or initiatives?
+   - Any high-profile projects you drove end-to-end?
+   - Manager quotes about your impact on the business/team
 
-3. Max Planck Institute:
-   - Can you get documentation about the 200x speedup in COMSOL simulations?
-   - Do you have any papers or reports about the micro-scale robots research?
-   - Can you get a letter from Prof. Metin Sitti about your contributions?
+3. **Industry Recognition**:
+   - Any external speaking opportunities through Amazon?
+   - Press coverage or case studies mentioning your work?
+   - Participation in industry events representing Amazon?
+
+### Albus Technologies - STARTUP LEADERSHIP:
+4. **Founding Engineer Impact**:
+   - 100K+ users served - get official confirmation
+   - What major technical decisions did you drive?
+   - How did your work contribute to fundraising success?
+
+5. **Business Recognition**:
+   - Investment amount raised while you were there
+   - Any investor testimonials about your technical contributions?
+   - Press coverage or case studies about the company mentioning you?
+
+6. **Industry Impact**:
+   - Speaking at conferences about your RAG system work?
+   - Any open-source contributions or thought leadership?
+   - Recognition from AI/ML community for your work?
+
+### Max Planck Institute - Research Impact:
+7. **Performance Metrics**:
+   - COMSOL speedup: Document 200x improvement with before/after
+   - Research output: 3 papers published, X citations
+   - Collaboration duration: X months of research
 
 ## Academic & Research
 
