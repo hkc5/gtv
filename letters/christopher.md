@@ -16,6 +16,8 @@ Hakancan's expertise in bridging artificial intelligence with computational phys
 
 Having worked with countless talented researchers throughout my career, I can state unequivocally that Hakancan possesses the rare intellectual agility and technical insight that distinguishes truly exceptional scientists. His capacity to rapidly identify and solve fundamental computational challenges, combined with his track record of securing significant research funding, demonstrates the kind of research leadership that drives scientific progress.
 
+In our recent discussions about his future plans, Hakancan has expressed his strong commitment to remaining in the UK and contributing to its digital technology sector. His vision to commercialise cutting-edge AI research whilst maintaining strong ties with academic institutions represents exactly the kind of innovation-driven approach that strengthens the UK's position as a global leader in digital technology. Given his proven ability to develop transformative technologies with both academic and commercial potential, I am confident that he will contribute significantly to the UK's technology ecosystem whilst creating high-value employment opportunities and fostering collaboration between industry and academia.
+
 I strongly support Hakancan's visa application. His groundbreaking work in neural network architectures for scientific computing, as evidenced by NVIDIA's backing and the transformative potential of his research, clearly establishes him as an outstanding candidate who will make substantial contributions to the UK's technological advancement and scientific excellence.
 
 Sincerely,

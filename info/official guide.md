@@ -26,16 +26,13 @@ Please see the [FAQ page](https://technation.io/visa_faq/) for more information.
 
 # The Global Talent Visa
 
-<aside>
-<img src="/icons/globe_purple.svg" alt="/icons/globe_purple.svg" width="40px" /> The Global Talent Visa enables the brightest and best tech talent from around the world to come and work in the UK’s digital technology sector, contributing their cutting-edge expertise, creativity and innovation to maintaining the UK’s position at the forefront of the global digital economy.
+The Global Talent Visa enables the brightest and best tech talent from around the world to come and work in the UK’s digital technology sector, contributing their cutting-edge expertise, creativity and innovation to maintaining the UK’s position at the forefront of the global digital economy.
 
 Tech Nation is the official Home Office designated endorsing body authorised to assess endorsement applications from individuals with expertise in digital technology and who want to come to the UK under the Global Talent visa.
 
 The Tech Nation Visa is for founders and employees with technical or business backgrounds, including all tech sub-sectors like fintech, AI, cyber, and games. The visa is valid for up to 5 years, enabling you to work, change employers, or be self-employed, without the need for further authorisation. The Tech Nation Visa can be extended to your immediate family members and after the initial visa period, you can either apply for an extension or permanent settlement in the UK.
 
 If you are a talented or promising individual and want to work in the UK’s digital technology sector, the Tech Nation Visa is for you.
-
-</aside>
 
 # About this Guide
 
@@ -136,8 +133,7 @@ Exceptional Promise applicants are likely to have less than 5 years of experienc
 
 Tech Nation will assess your endorsement application, establish whether your skills and achievements meet the eligibility criteria for Exceptional Talent or Exceptional Promise, and decide whether you should be endorsed for the Global Talent visa. You should note that this is not determined solely by the eligibility criteria, Tech Nation’s independent panel of assessors will determine whether, overall, they consider that the applicant should be endorsed and for which route. It is at Tech Nation’s discretion to assess each application on its own merits and make a recommendation for or against endorsement.
 
-<aside>
-<img src="/icons/location_purple.svg" alt="/icons/location_purple.svg" width="40px" /> **Applicants must either:**
+**Applicants must either:**
 
 **Meet 1 mandatory and 2 optional “Exceptional Talent” criteria in the table below**
 
@@ -145,14 +141,11 @@ Tech Nation will assess your endorsement application, establish whether your ski
 
 **Meet 1 mandatory and 2 optional “Exceptional Promise” criteria in the table below.**
 
-</aside>
-
 ## Exceptional Talent
 
 (leader in relevant field)
 
-<aside>
-<img src="/icons/location_purple.svg" alt="/icons/location_purple.svg" width="40px" /> **An applicant evidencing EXCEPTIONAL TALENT must:**
+**An applicant evidencing EXCEPTIONAL TALENT must:**
 
 - show that they have been recognised as a leading talent in the digital technology sector in the last 5 years.
 
@@ -162,14 +155,12 @@ Tech Nation will assess your endorsement application, establish whether your ski
 - proof of recognition for work beyond the applicant’s occupation that contributes to the advancement of the field
 - they have made significant technical, commercial or entrepreneurial contributions to the field as a founder, senior executive, board member or employee of a product-led digital technology company
 - they have demonstrated exceptional ability in the field by academic contributions through research published or endorsed by an expert.
-</aside>
 
 ## Exceptional Promise
 
 (potential leader in relevant field)
 
-<aside>
-<img src="/icons/location_purple.svg" alt="/icons/location_purple.svg" width="40px" /> **An applicant evidencing EXCEPTIONAL PROMISE must:**
+**An applicant evidencing EXCEPTIONAL PROMISE must:**
 
 - show they have been recognised as having potential to be a leading talent in the digital technology field in the last 5 years.
 
@@ -181,7 +172,6 @@ Tech Nation will assess your endorsement application, establish whether your ski
 - they have demonstrated exceptional ability in the field by academic contributions through research endorsed by an expert.
   **And:**
 - Be at an early stage in their career
-</aside>
 
 # Fast Track
 
@@ -223,8 +213,6 @@ The Home Office will inform you if you have been successful in receiving endorse
 
 **Stage 2 -** Application for Visa: Tech Nation is not involved in Stage 2 - you must apply on the official [Global Talent website](https://www.gov.uk/global-talent) within 3 months of receiving your endorsement from Tech Nation (failure to do so may result in your endorsement no longer being valid). The Home Office consider immigration aspects, such as general grounds for refusal, and if you are already in the UK whether you are able to switch into Global Talent. This stage usually takes up to 3 weeks if you're outside the UK, and up to 8 weeks if you're inside the UK.
 
-![Screenshot 2024-04-15 at 14.28.03.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ab8ad6ce-8a3b-4699-ae84-0daf5061f62a/e63904fb-d09e-407c-b5af-1a3de93a169d/Screenshot_2024-04-15_at_14.28.03.png)
-
 ## Unsuccessful Endorsement Applications
 
 If your application for endorsement is unsuccessful and you think that this outcome is due to a mistake that has been made, you can ask the Home Office to request that Tech Nation checks the processing of your application by means of a 'Review'. Full guidance on the Review process, including how to submit a Review, can be found in the [official guidance](https://www.gov.uk/global-talent-digital-technology/if-your-endorsement-application-is-refused).
@@ -248,9 +236,8 @@ If you decide not to request a Review, you can still consider whether to make a 
 
 To allow your application to be assessed, you must provide all of the following documents, uploaded to the Tech Nation platform as part of your application:
 
-<aside>
-<img src="/icons/document_purple.svg" alt="/icons/document_purple.svg" width="40px" /> **A completed Tech Nation Visa application form**
-Available on Tech Nation’s website [HERE](https://technation.io/global-talent-application/). 
+**A completed Tech Nation Visa application form**
+Available on Tech Nation’s website [HERE](https://technation.io/global-talent-application/).
 
 This includes a Personal Statement (maximum 1000 words in length) written by you to explain the contribution that you will make to the UK digital technology sector.  The statement should be relevant and consistent to the rest of your application, including answers to the following questions and any other information you deem relevant:
 
@@ -261,15 +248,9 @@ This includes a Personal Statement (maximum 1000 words in length) written by you
 
 The Personal Statement must be submitted using the Tech Nation form and not uploaded as a separate document.
 
-</aside>
+**CV with any career and publication history included.** It must be typed and be up to 3 sides of A4 paper.
 
-<aside>
-<img src="/icons/document_purple.svg" alt="/icons/document_purple.svg" width="40px" /> **CV with any career and publication history included.** It must be typed and be up to 3 sides of A4 paper.
-
-</aside>
-
-<aside>
-<img src="/icons/document_purple.svg" alt="/icons/document_purple.svg" width="40px" /> **Three letters of recommendation** from three different well-established individuals acknowledged as experts in the digital technology field, with detailed knowledge of your work over a period of 12 months or more, supporting your Global Talent application.
+**Three letters of recommendation** from three different well-established individuals acknowledged as experts in the digital technology field, with detailed knowledge of your work over a period of 12 months or more, supporting your Global Talent application.
 
 Each letter must provide different examples to show your achievements, skills, experience and contribution to the digital technology sector.
 
@@ -297,10 +278,7 @@ The letters must also:
 
 Letters which are deemed by Tech Nation to be duplicates or templates, or closely matching the contents of evidence submitted by other applicants, may be considered fraudulent or not acceptable as evidence for endorsement.
 
-</aside>
-
-<aside>
-<img src="/icons/document_purple.svg" alt="/icons/document_purple.svg" width="40px" /> **Up to 10 pieces of evidence in relation to the relevant Eligibility Criteria:**
+**Up to 10 pieces of evidence in relation to the relevant Eligibility Criteria:**
 
 - **Mandatory Criteria:** At least 2 unique documents showing you are recognised as either a leading talent or potential talent, and;
 - **Optional Criteria:** At least 4 unique documents showing you have any 2 of the other necessary skills (use 2 documents as proof for each skill).
@@ -308,7 +286,6 @@ Letters which are deemed by Tech Nation to be duplicates or templates, or closel
 - The evidence you supply to demonstrate you meet the Eligibility Criteria must consist of no more than ten documents in total, with each piece of evidence/document of no more than three A4 sides in length. Each document represents a single piece of evidence. For evidence that would exceed the page limit, please only include the most important aspects, e.g. key terms of employment for an employment contract.
 - You must provide evidence of any commercially successful established businesses, share ownership or businesses dissolved in the last 5 years where you have been a founder or senior executive.
 - You must use the Tech Nation application form to state which of your supporting documents relate to your chosen Eligibility Criteria. If you choose to provide this information in the form of a cover letter you will need to upload it as one of your ten supporting documents.
-</aside>
 
 **PLEASE NOTE THE FOLLOWING:**
 
