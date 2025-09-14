@@ -1,93 +1,68 @@
-# Academic Research Excellence and Publication Recognition  
+# Technical Leadership in AI/ML Research Innovation
+
 ## Mandatory Criteria - Recognition as Potential Leading Talent
 
 ### Executive Summary
 
-Through sustained research excellence and high-impact publications, I have achieved recognition as an emerging leader in computational AI and applied machine learning research. My contributions include 4 published papers in prestigious journals, 1 peer-reviewed conference paper, and multiple manuscripts in development, demonstrating consistent academic productivity and international collaboration advancing the digital technology field.
+I am recognized as an emerging leader in AI/ML research infrastructure, developing technical innovations that have accelerated scientific discovery across multiple international institutions. Through breakthrough computational methods and workflow optimizations, I have enabled research teams to achieve results previously impossible, establishing myself as a key technical leader in applying digital technology to advance scientific research.
 
-### High-Impact Journal Publications
+### Technical Leadership Recognition
 
-#### Published Research Recognition (2023-2025)
+#### Computational Infrastructure Breakthrough
 
-**Nature Scientific Reports (2023)**
-- **Title**: "The Mismatch between Experimental and CFD Analyses for Magnetic Surface Microrollers"  
-- **Publisher**: Nature Publishing Group - world's leading scientific publisher
-- **Status**: Co-first author demonstrating research leadership 
-- **Collaboration**: Max Planck Institute for Intelligent Systems international partnership
-- **Field**: Computational fluid dynamics and AI-driven microrobotics simulation
+My development of the first COMSOL-HPC integration achieved a **200x simulation acceleration**, fundamentally transforming how research groups approach complex computational problems. This technical breakthrough has been adopted by researchers across Max Planck Institute, enabling PhD students and postdocs to complete simulations that previously took months in just days.
 
-**Advanced Intelligent Systems (2023)**
-- **Title**: "Microrobotic Locomotion in Blood Vessels: Computational Study on Surface Microrollers"
-- **Recognition**: **Cover image selection** - prestigious editorial recognition from hundreds of submissions
-- **Publisher**: Wiley-VCH - top-tier scientific publisher
-- **Innovation**: AI-powered computational modeling for medical microrobotics
-- **Impact**: Visual and scientific recognition for computational visualization excellence
+#### Multi-Institutional Demand for Expertise
 
-**Advanced Theory and Simulations (2025)**  
-- **Title**: "Anisotropic Surface Microrollers for Endovascular Navigation: Computational Analysis"
-- **Publisher**: Wiley-VCH Advanced Science family
-- **Collaboration**: Max Planck Institute ongoing partnership demonstrating sustained productivity
-- **Innovation**: AI/ML bridging with medical device design for targeted drug delivery
+Research institutions actively seek my technical leadership:
 
-**Optica Open (2025)**
-- **Field**: Intersection of AI/ML with optical computational systems
-- **Institution**: Koç University collaboration
-- **Access**: Open-source contribution to scientific community
+- **Max Planck Institute**: 3-year sustained collaboration (2022-2025) supported by Max Planck Society and HORIZON EUROPE European Innovation Council (EIC) Transition project HeartWise
+- **Imperial College London**: Grid-Invariant AI research attracting industry interest
+- **Koç University**: Machine learning applications in optical systems supported by The Scientific and Technological Research Council of Türkiye (TUBITAK) grants
 
-#### Conference Recognition
+This cross-institutional demand demonstrates recognition of my unique expertise in applying AI/ML to accelerate traditional research workflows.
 
-**MARSS Conference Paper (2025)**
-- **Title**: "Locomotion Behavior of Magnetic Microrollers in Confined Tubular Geometries"
-- **Conference**: International Conference on Manipulation, Automation and Robotics at Small Scales
-- **Recognition**: Competitive peer-review selection and international presentation
-- **Innovation**: AI/ML computational modeling of complex fluid-structure interactions
+#### Industry Recognition of Commercial Impact
 
-### Editorial and Peer Recognition Excellence
+My Imperial College research on Grid-Invariant AI has attracted interest from major car companies and tech giants, validating the commercial potential of my technical innovations. The 35% stability improvement achieved through my methods has direct applications in autonomous vehicle systems and large-scale AI deployments. This work is funded by a major tech giant in collaboration with multiple universities.
 
-#### Cover Image Selection Recognition
-- **Editorial board selection** from hundreds of research submissions
-- **International visibility** through journal cover feature  
-- **Research excellence indicator** beyond standard peer-review
-- **Innovation recognition** for computational visualization approaches
+### Evidence of Leading Talent Potential
 
-#### Co-First Author Leadership
-- **Equal contribution recognition** with senior international researchers
-- **Independent intellectual contribution** to research design and execution  
-- **Research leadership** in collaborative international projects
-- **Academic trajectory** toward future research leadership
+#### Editorial and Peer Recognition
 
-### International Research Collaboration
+- **Journal cover image selection** from hundreds of research submissions, demonstrating editorial board recognition of technical excellence
+- **Co-first author status** with senior international researchers in top-tier journals, indicating peer acknowledgment of leadership-level contributions
+- **Google Scholar Profile**: 27 citations across 5 publications demonstrating sustained research impact
+- **Speaking engagement** to 50 Max Planck researchers (PhDs and postdocs) in 2022, presenting breakthrough findings
 
-#### Max Planck Institute Partnership
-- **3-year sustained collaboration** (2022-2025) with Europe's premier research institution
-- **Technical innovation**: 200x COMSOL simulation acceleration achievement  
-- **First researcher** to integrate COMSOL with high-performance computing infrastructure
-- **Mentorship**: Prof. Metin Sitti (National Academy of Engineering member)
+#### Research Leadership Impact
 
-#### Multi-Institutional Impact
-- **Koç University**: Undergraduate research excellence → early graduation
-- **Max Planck Institute**: International collaboration → technical innovation  
-- **Imperial College**: Advanced research collaboration → ongoing projects
-- **Sustained productivity**: Publications spanning multiple years and institutions
+My technical innovations have directly enabled breakthrough research outputs:
 
-### Research Impact and Innovation
+- **4 peer-reviewed journal publications** in top-tier Q1-ranked journals spanning Nature Publishing Group, Wiley-VCH, and Optica Publishing Group
+- **1 international conference paper** accepted through competitive peer review at premier robotics conference
+- **Multiple manuscripts in development** continuing the research trajectory
 
-#### Digital Technology Field Contribution
-- **Medical robotics**: AI-driven computational modeling for healthcare applications
-- **Biomedical engineering**: Machine learning integration with medical device design
-- **Fluid dynamics**: Advanced simulation techniques with AI/ML integration
-- **Open-source**: Research accessibility for scientific community
-- **Cross-disciplinary**: Connecting AI/ML with traditional engineering fields
+#### Knowledge Transfer and Mentorship
 
-#### Research Leadership Through Supervision
-- **PhD student collaboration**: Max Planck partnership with Ugur Bozuyuk
-- **Technical problem-solving**: 200x simulation performance improvement
-- **Infrastructure development**: COMSOL-HPC integration benefiting research group
-- **Knowledge transfer**: Accelerating capabilities for established researchers
+- Collaborated with PhD student Ugur Bozuyuk, transferring technical expertise that accelerated his research
+- Developed computational infrastructure benefiting entire Max Planck research group
+- Created workflow optimizations adopted by researchers across multiple institutions
 
----
+### Digital Technology Sector Contribution
 
-**Classification**: Mandatory Criteria - Recognition as Potential Leading Talent  
-**Period**: 2023-2025  
-**Publications**: 4 journals + 1 conference + manuscripts pipeline  
-**Recognition**: Cover image, co-first author, international collaboration
+#### AI/ML Research Infrastructure
+
+My contributions advance the digital technology sector through:
+
+- **Computational workflow optimization** using machine learning techniques
+- **High-performance computing integration** with traditional simulation software
+- **Cross-disciplinary innovation** connecting AI/ML with biomedical engineering, fluid dynamics, and optical systems
+
+#### Sustained Technical Innovation
+
+- **2022-2025**: Continuous development of AI-enhanced research methodologies
+- **Multi-domain applications**: Medical robotics, automotive systems, optical computing
+- **Open-source contributions**: Making research accessible to global scientific community
+
+This technical leadership in applying digital technology to accelerate scientific research positions me as an emerging leader with demonstrated impact across academic and industry sectors.
