@@ -28,6 +28,15 @@ UK Global Talent Visa application on the Exceptional Promise route (AI/ML sector
 
 **Strategy:** Using OC3 (Commercial contributions) + OC4 (Academic research) as optional criteria
 
+## Optional Criteria Definitions
+
+**OC1 - Innovation:** Proven track record of innovation as founder/senior executive OR employee working on **new digital field or concept**
+**OC2 - Recognition Beyond Occupation:** Work beyond your job that **advances the field** (mentoring, speaking, open source, community)
+**OC3 - Commercial/Technical Contributions:** Significant **technical, commercial, or entrepreneurial** contributions (impact, not innovation)
+**OC4 - Academic Research:** Exceptional ability through **research published or endorsed by expert**
+
+**Current Strategy:** Using OC3 + OC4
+
 ## Key Principles
 
 1. **Show impact through results, not claims** - Use concrete metrics and adoption numbers
