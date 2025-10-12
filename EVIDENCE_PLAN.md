@@ -29,10 +29,11 @@
 | imperial-github.jpg                      | Imperial RAPIDS GitHub repository - where we are open sourcing yet haven't published any papers yet                         | OC4-2         |
 | imperial-slide-cover.png                 | Imperial RAPIDS project cover slide                                                                                         | OC4-2         |
 | imperial-slide-diagram.png               | Technical diagram from Imperial research - from the slide                                                                   | OC4-2         |
-| journal-AdvancedIntelligentSystems.png   | Journal cover (IF: 6.8, h-index: 21)                                                                                        | OC4-1         |
-| journal-AdvancedTheoryandSimulations.png | Journal publication page (IF: 2.9, h-index: 47)                                                                             | OC4-1         |
-| journal-BiomedicalOpticsExpress.png      | Journal publication page (IF: 3.9, h-index: 117)                                                                            | OC4-2         |
-| journal-ScientificReports.png            | Journal publication page (Nature, IF: 3.9, h-index: 347)                                                                    | OC4-1         |
+| paper-advanced-intelligent-systems.png   | Advanced Intelligent Systems paper showing 3,000+ accesses (co-first author)                                                | OC4-1         |
+| paper-advanced-theory-simulations.png    | Advanced Theory and Simulations paper showing 600+ accesses (co-author)                                                     | OC4-1         |
+| paper-biomedical-optics-express.png      | Biomedical Optics Express paper - AI/ML for cardiac tissue analysis                                                         | OC4-2         |
+| paper-mass-conference.png                | MASS Conference paper - 4th publication from Max Planck research                                                            | OC4-1         |
+| paper-scientific-reports.png             | Nature Scientific Reports paper showing 3,000+ accesses (co-first author)                                                   | OC4-1         |
 | kenley-offer.png                         | Startup offer email ($120K + 1% equity)                                                                                     | MC-4          |
 | koc-gwc.png                              | Girls Who Code program - tutoring high school girls from low income regions of Turkey                                       | MC-5          |
 | koc-mentor-mail.png                      | Koç University mentoring program invitation email                                                                           | MC-5          |
@@ -66,15 +67,15 @@
 | OC3-1-PrimeVideoPerformance      | OC3       | Amazon Prime Video UI performance optimization - 20% latency reduction for 100M+ devices, 4% memory optimization                                                                                                                                                   | amazon-latency.png                                                                                                                                                                                                         | Enterprise-scale performance contribution (100M+ customers)       |
 | OC3-2-PrimeVideoLLMAgent         | OC3       | Amazon Prime Video LLM agent platform - Won London-wide hackathon, 10M+ metrics analysis, used in production, 60% faster diagnosis, 500+ engineers watched presentation                                                                                            | amazon-oncall.png, amazon-hackathon.png, amazon-videos.png                                                                                                                                                                 | Innovative LLM agent platform with hackathon recognition          |
 | OC3-3-AlbusCommercial            | OC3       | Albus commercial success - System architecture, technical contributions (160 commits, top contributor), RAG system design                                                                                                                                          | albus-chunk.png, albus-keyword-github.png, albus-news-github.png                                                                                                                                                           | Commercial contribution - what I built and how                    |
-| OC4-1-MaxPlanckResearch          | OC4       | Max Planck publications - 4 papers (3 journals + 1 conference), journal cover selection, 200x HPC breakthrough enabling new research                                                                                                                               | maxplank-diagram.png, journal-ScientificReports.png, journal-AdvancedIntelligentSystems.png, journal-AdvancedTheoryandSimulations.png, paper-backcover.png                                                                 | Published research excellence with quantifiable impact            |
-| OC4-2-CrossInstitutionalResearch | OC4       | Cross-institutional AI research - Imperial RAPIDS + Koç biomedical ML + Scholar profile showing full publication portfolio beyond Max Planck                                                                                                                        | imperial-slide-cover.png, imperial-slide-diagram.png, imperial-github.jpg, journal-BiomedicalOpticsExpress.png, hakancan-scholar.png                                                                                       | Ongoing research + full research portfolio (5 papers total)       |
+| OC4-1-MaxPlanckResearch          | OC4       | Max Planck publications - 4 papers (3 journals + 1 conference), 3,000+ accesses per paper, 200x HPC breakthrough enabling new research                                                                                                                             | maxplank-diagram.png, paper-scientific-reports.png, paper-advanced-intelligent-systems.png, paper-advanced-theory-simulations.png, paper-mass-conference.png, paper-backcover.png                                          | Published research excellence with quantifiable impact            |
+| OC4-2-CrossInstitutionalResearch | OC4       | Cross-institutional AI research - Imperial RAPIDS + Koç biomedical ML + Scholar profile showing full publication portfolio beyond Max Planck                                                                                                                        | imperial-slide-cover.png, imperial-slide-diagram.png, imperial-github.jpg, paper-biomedical-optics-express.png, hakancan-scholar.png                                                                                       | Ongoing research + full research portfolio (5 papers total)       |
 
 ---
 
 ## Image Distribution
 
-**Total images:** 38
-**Total uses:** 38 (no reuse!)
+**Total images:** 39
+**Total uses:** 39 (no reuse!)
 
 - ✅ MC-1: 3 images (Albus UI 1 + UI 2 + vector DB showing scale)
 - ✅ MC-2: 5 images (rank + Amazon compensation package + salary comparison)
@@ -84,8 +85,8 @@
 - ✅ OC3-1: 1 image (Prime Video latency improvement)
 - ✅ OC3-2: 3 images (Prime Video LLM agent oncall + hackathon email + videos)
 - ✅ OC3-3: 3 images (Albus architecture + GitHub contributions)
-- ✅ OC4-1: 5 images (Max Planck HPC + 3 journals + back cover)
-- ✅ OC4-2: 5 images (Imperial slides + GitHub + Koç journal + Scholar profile)
+- ✅ OC4-1: 6 images (Max Planck HPC + 3 journal papers + conference paper + back cover)
+- ✅ OC4-2: 5 images (Imperial slides + GitHub + Koç paper + Scholar profile)
 
 ---
 

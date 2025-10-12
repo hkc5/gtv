@@ -16,3 +16,11 @@ _KPMG Ideation Challenge - National Winner (Turkey) and Global Finalist_
 
 ![Riverflex Invitation](raw/hackathon-riverhacks.png)
 _Riverflex London hackathon invitation_
+
+---
+
+**References:**
+
+- Y Combinator AI Startup School: https://events.ycombinator.com/ai-sus
+- KPMG Ideation Challenge: https://www.linkedin.com/posts/kpmg-turkiye-kariyer_kpmgic-activity-6787368408221528064-hhyr
+- Riverhacks: https://www.riverflex.com/riverhacks

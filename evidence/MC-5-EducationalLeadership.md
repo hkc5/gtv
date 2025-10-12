@@ -31,3 +31,12 @@ _Revizon app UI - mentoring 3 Imperial College students through Amazon Universit
 
 ![Podcast Interview](raw/hakancan-mechtalks-interview.png)
 _Koç University Mechanical Engineering Society podcast on UK tech careers - 500+ YouTube views_
+
+---
+
+**References:**
+- KUMech Podcast: https://www.youtube.com/watch?v=3_oIuB2kRCE&t=704s
+- Koç Mentor Alumni Network: https://mezun.ku.edu.tr/en/programs/alumni-mentorship-network
+- Girls Who Code Program: https://gshs.ku.edu.tr/en/news/?detail=true&id=02b2ff30-a44f-4947-89ea-ce9a72a5f88c
+- Deniz Canim (Mentee): https://www.linkedin.com/in/deniz-canim/
+- Tuna Çimen (Mentee): https://www.linkedin.com/in/tuna-%C3%A7imen-76b273193/

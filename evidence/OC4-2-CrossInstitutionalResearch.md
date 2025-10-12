@@ -26,9 +26,18 @@ This is ongoing research from my Imperial College MSc where I developed a grid-i
 
 ### Koç University - Biomedical AI
 
-![Biomedical Optics Express](raw/journal-BiomedicalOpticsExpress.png)
-_Optica Publishing - Impact Factor: 3.9, h-index: 117_
+![Biomedical Optics Express](raw/paper-biomedical-optics-express.png)
+_Biomedical Optics Express publication - AI/ML for cardiac tissue analysis (Impact Factor: 3.2, h5-index: 58)_
 
 **Saruhan, E. N., Ozturk, H., et al. (2025).** Learning-enhanced 3D fiber orientation mapping in thick cardiac tissues. _Biomedical Optics Express_, 16(8), 3315-3336.
 
 I contributed AI/ML enhancements to 3D fiber mapping for cardiac tissue analysis in collaboration with Koç University's cardiovascular lab.
+
+---
+
+**References:**
+
+- RAPIDS GitHub: https://github.com/ImperialCollegeLondon/RAPIDS
+- RAPIDS Presentation: https://docs.google.com/presentation/d/1QNrtneocwtVdyVhZJaoy7EFUgmwjc8Av1lYtuXEiixA/
+- Koç University Cardiovascular Lab: https://bio-fluids.org/
+- Biomedical Optics Express: https://opg.optica.org/boe/

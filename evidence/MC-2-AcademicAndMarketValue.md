@@ -11,6 +11,12 @@ _8 months of payslips averaging over £4,500/month after tax_
 ![UK Graduate Median](raw/uk-grad-salary.png)
 _UK graduate median salary: £42,000 (High Fliers 2024) - my compensation is 2x this baseline_
 
+---
+
+**References:**
+
+- UK Graduate Labour Markets 2024: https://explore-education-statistics.service.gov.uk/find-statistics/graduate-labour-markets/2024
+
 ![Amazon Offer Letter](raw/amazon-offer.png)
 _Amazon offer letter: £74,000 base salary_
 
