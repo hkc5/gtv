@@ -1,6 +1,6 @@
 # Mandatory Criteria 5 - Educational Leadership and Mentoring
 
-I have contributed to developing the next generation of technologists through formal mentoring, teaching, and public engagement. Through Koç University's official mentoring program, I mentored 2 students with documented successful outcomes - one was accepted to Imperial College London for her MSc (starting 2025-26) and the other secured a position at Turkey's leading game development company. I also mentor 3 Imperial College students through Amazon's University Engagement Program, guiding them in building Revizon, an AI-powered study app for GCSE and A-level students. Beyond one-on-one mentoring, I've tutored university courses (Fluid Dynamics and Engineering Computational Methods at Koç) and participated in the Girls Who Code program, teaching high school girls from low-income regions of Turkey to help address the gender gap in tech. I've shared my knowledge more broadly through a Koç University podcast on UK tech careers that reached 500+ viewers on YouTube.
+I have contributed to developing the next generation of technologists through formal mentoring, teaching, and public engagement. Through Koç University's official mentoring program, I mentored 2 students with documented successful outcomes. One was accepted to Imperial College London for her MSc (starting 2025-26) and the other secured a position at Turkey's leading game development company. I also mentor 3 Imperial College students through Amazon's University Engagement Program, guiding them in building Revizon, an AI-powered study app for GCSE and A-level students. Beyond one-on-one mentoring, I've tutored university courses (Fluid Dynamics and Engineering Computational Methods at Koç) and participated in the Girls Who Code program, teaching high school girls from low-income regions of Turkey to help address the gender gap in tech. I've shared my knowledge more broadly through a Koç University podcast on UK tech careers that reached 500+ viewers on YouTube.
 
 ![Koç Mentoring Program](raw/koc-mentor-web.png)
 _Official Koç University mentoring program website_
@@ -11,11 +11,8 @@ _Invitation to participate in the mentoring program_
 ![Student Matching](raw/koc-mentor-match-mail.png)
 _2 students matched through the program_
 
-![Deniz - Imperial College](raw/mentor-deniz-linkedin.png)
-_Mentee Deniz accepted to Imperial College London MSc (2025-26) - I helped guide her application_
-
-![Tuna - Industry Success](raw/mentor-tuna-linkedin.png)
-_Mentee Tuna secured position at Turkey's leading game development company_
+![Mentee Outcomes](raw/mentor-linkedin.png)
+_Left: Tuna secured position at Turkey's leading game development company | Right: Deniz accepted to Imperial College London MSc (2025-26)_
 
 ![Girls Who Code](raw/koc-gwc.png)
 _Girls Who Code program - tutoring high school girls from low-income regions of Turkey_

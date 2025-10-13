@@ -1,6 +1,6 @@
 # Mandatory Criteria 1 - Technical Leadership at Albus Technologies
 
-Over 6 months as Founding Engineer, I built Albus's core RAG system from the ground up, designing a hierarchical semantic chunking architecture that outperformed the industry standard (LangChain) by 30%. I solved a critical industry problem - LangChain's arbitrary text splitting - with an approach so effective that users willingly chose 30x slower processing for 2x better accuracy. The system I built now serves 50,000+ active users across multiple enterprise customers, processing 400,000+ documents into 4 million semantic chunks and handling 500,000+ monthly searches with 99.7% uptime and sub-200ms response times.
+Over 6 months as Founding Engineer, I built Albus's core RAG system from the ground up, designing a hierarchical semantic chunking architecture that outperformed the industry standard (LangChain) by 30%. I solved a critical industry problem, LangChain's arbitrary text splitting, with an approach so effective that users willingly chose 30x slower processing for 2x better accuracy. The system I built now serves 50,000+ active users across multiple enterprise customers, processing 400,000+ documents into 4 million semantic chunks and handling 500,000+ monthly searches with 99.7% uptime and sub-200ms response times.
 
 ---
 
