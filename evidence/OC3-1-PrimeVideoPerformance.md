@@ -7,9 +7,12 @@ Prime Video has millions of customers all over the world, more than 1% of the wo
 ![UI Latency Reduction](raw/amazon-latency.png)
 _UI processing time comparison showing the difference between control (legacy) and T1 (improved) groups - 20% improvement for 100M+ devices_
 
+![Code Contributions](raw/amazon-commits.png)
+_Over 120 changes with 360K+ lines added and 320K+ lines removed during 9 months at Amazon Prime Video_
+
 ---
 
-**Key numbers:** 20% UI rendering time reduction for 100M+ Prime Video customers • 4% memory optimization for 200M+ devices • Over 1% of world population runs my code • Increased revenue and user retention through improved performance
+**Key numbers:** 20% UI rendering time reduction for 100M+ Prime Video customers • 4% memory optimization for 200M+ devices • Over 1% of world population runs my code • 120+ changes with 360K+ lines added, 320K+ lines removed • Increased revenue and user retention through improved performance
 
 ---
 

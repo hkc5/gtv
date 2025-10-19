@@ -5,14 +5,10 @@ RAG systems face a fundamental engineering problem: how do you split documents i
 ---
 
 ![RAG Architecture](raw/albus-chunk.png)
-*High-level architecture of the hierarchical semantic chunking system I designed - solves LangChain's arbitrary splitting problem*
+_High-level architecture of the hierarchical semantic chunking system I designed - solves LangChain's arbitrary splitting problem_
 
 ![GitHub Contributions](raw/albus-news-github.png)
-*160 commits - second most frequent contributor to main services repository*
+_160 commits - second most frequent contributor to main services repository_
 
 ![Repository Leadership](raw/albus-keyword-github.png)
-*Top contributor on keyword search repository*
-
----
-
-**Key numbers:** 160 commits as top contributor • Designed hierarchical chunking architecture from scratch • 30% better retrieval than LangChain baseline • 2x accuracy improvement vs character-based splitting • Multi-layer approach (structure → embeddings → relationships) • Built document processing pipeline for multiple modalities (PDF, audio, code, images) • Integrated Pinecone vector database • AWS Lambda orchestration for parallel processing • 6 months from concept to production
+_Top contributor on keyword search repository_

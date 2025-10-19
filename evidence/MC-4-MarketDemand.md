@@ -15,6 +15,3 @@ _Unsolicited LinkedIn recruiter messages seeking technical cofounders for AI sta
 
 ![LinkedIn Recruiters 2](raw/li2.png)
 _Continued inbound recruiter interest for cofounder positions_
-
-![YC Cofounder Matches](raw/yc-cofounder.png)
-_18 people reached out in 2 days on YC Cofounder platform wanting to start companies together_

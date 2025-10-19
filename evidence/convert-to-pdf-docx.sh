@@ -15,12 +15,16 @@ mkdir -p docx
 echo "🔄 Converting evidence files to PDF and DOCX..."
 echo ""
 
-# Find all markdown files that match evidence pattern (MC-*.md or OC*.md)
-FILES=(*.md)
+# If arguments provided, use them; otherwise use all markdown files
+if [ $# -gt 0 ]; then
+    FILES=("$@")
+else
+    FILES=(*.md)
+fi
 
 # Check if any files exist
-if [ ! -f "${FILES[0]}" ]; then
-    echo "❌ No markdown files found in evidence directory"
+if [ ${#FILES[@]} -eq 0 ] || [ ! -f "${FILES[0]}" ]; then
+    echo "❌ No markdown files found"
     exit 1
 fi
 
@@ -59,8 +63,8 @@ echo "   PDF:  evidence/pdf/"
 echo "   DOCX: evidence/docx/"
 echo ""
 echo "📊 Summary:"
-ls -lh pdf/*.pdf 2>/dev/null | tail -n +2 | wc -l | xargs echo "   PDF files: "
-ls -lh docx/*.docx 2>/dev/null | tail -n +2 | wc -l | xargs echo "   DOCX files:"
+echo "   PDF files:  $(ls -1 pdf/*.pdf 2>/dev/null | wc -l | tr -d ' ')"
+echo "   DOCX files: $(ls -1 docx/*.docx 2>/dev/null | wc -l | tr -d ' ')"
 echo ""
 echo "Total file sizes:"
 du -sh pdf/ 2>/dev/null | awk '{print "   PDF:  " $1}'

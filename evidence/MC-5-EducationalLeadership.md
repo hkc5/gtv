@@ -1,33 +1,25 @@
 # Mandatory Criteria 5 - Educational Leadership and Mentoring
 
-I have contributed to developing the next generation of technologists through formal mentoring, teaching, and public engagement. Through Koç University's official mentoring program, I mentored 2 students with documented successful outcomes. One was accepted to Imperial College London for her MSc (starting 2025-26) and the other secured a position at Turkey's leading game development company. I also mentor 3 Imperial College students through Amazon's University Engagement Program, guiding them in building Revizon, an AI-powered study app for GCSE and A-level students. Beyond one-on-one mentoring, I've tutored university courses (Fluid Dynamics and Engineering Computational Methods at Koç) and participated in the Girls Who Code program, teaching high school girls from low-income regions of Turkey to help address the gender gap in tech. I've shared my knowledge more broadly through a Koç University podcast on UK tech careers that reached 500+ viewers on YouTube.
+I have contributed to developing the next generation of technologists through formal mentoring, teaching, and public engagement. I've shared my knowledge through a Koç University podcast on UK tech careers that reached 500+ viewers on YouTube.
 
-![Koç Mentoring Program](raw/koc-mentor-web.png)
-_Official Koç University mentoring program website_
+![Podcast Interview](raw/hakancan-mechtalks-interview.png)
+_Koç University Mechanical Engineering Society podcast on UK tech careers - 500+ YouTube views_
 
-![Program Invitation](raw/koc-mentor-mail.png)
-_Invitation to participate in the mentoring program_
+**Formal Mentoring Programs:** Through Koç University's official mentoring program, I mentored 2 students with documented successful outcomes. One was accepted to Imperial College London for her MSc (starting 2025-26) and the other secured a position at Turkey's leading game development company. I also mentor 3 Imperial College students through Amazon's University Engagement Program, guiding them in building Revizon, an AI-powered study app for GCSE and A-level students.
 
-![Student Matching](raw/koc-mentor-match-mail.png)
-_2 students matched through the program_
+![Koç Mentoring Program](raw/koc-mentor.png)
+_a) Official mentoring program webpage showing structure | b) Selection notification to participate in program | c) Above average demand notification - assigned 2 mentees_
 
 ![Mentee Outcomes](raw/mentor-linkedin.png)
 _Left: Tuna secured position at Turkey's leading game development company | Right: Deniz accepted to Imperial College London MSc (2025-26)_
 
-![Girls Who Code](raw/koc-gwc.png)
-_Girls Who Code program - tutoring high school girls from low-income regions of Turkey_
+![Revizon App](raw/revizon.png)
+_Top: UI screenshot | Bottom: High-level system design diagram of mobile app - AI-powered GCSE/A-levels study app, mentoring 3 Imperial College students through Amazon University Engagement Program_
 
-![Course Tutoring](raw/koc-tutor.png)
-_University course tutoring: Fluid Dynamics and Engineering Computational Methods at Koç University_
+**Teaching and Outreach:** I've tutored university courses (Fluid Dynamics and Engineering Computational Methods at Koç) and participated in the Girls Who Code program, teaching high school girls from low-income regions of Turkey to help address the gender gap in tech.
 
-![Revizon Architecture](raw/revizon-diagram.png)
-_High-level architecture of Revizon - AI-powered GCSE/A-levels study app_
-
-![Revizon UI](raw/revizon-ui.png)
-_Revizon app UI - mentoring 3 Imperial College students through Amazon University Engagement Program_
-
-![Podcast Interview](raw/hakancan-mechtalks-interview.png)
-_Koç University Mechanical Engineering Society podcast on UK tech careers - 500+ YouTube views_
+![Course Tutoring and Girls Who Code](raw/koc-tutor-gwc.png)
+_Left: University course tutoring certificate (Fluid Dynamics and Engineering Computational Methods) | Right: Girls Who Code certificate - tutoring high school girls from low-income regions of Turkey_
 
 ---
 
