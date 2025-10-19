@@ -16,18 +16,12 @@ _Biomedical Optics Express publication - AI/ML for cardiac tissue analysis (Impa
 
 **Saruhan, E. N., Ozturk, H., et al. (2025).** Learning-enhanced 3D fiber orientation mapping in thick cardiac tissues. _Biomedical Optics Express_, 16(8), 3315-3336.
 
-## I contributed AI/ML enhancements to 3D fiber mapping for cardiac tissue analysis in collaboration with Koç University's cardiovascular lab.
+I contributed AI/ML enhancements to 3D fiber mapping for cardiac tissue analysis in collaboration with Koç University's cardiovascular lab.
 
 ### Imperial College London - RAPIDS Project (Ongoing)
 
-![RAPIDS Project](raw/imperial-slide-cover.png)
-_Grid-Invariant AI architecture for turbulent flow simulation - my MSc research_
-
-![Technical Architecture](raw/imperial-slide-diagram.png)
-_Neural network architecture I developed combining autoencoders and adversarial networks_
-
-![GitHub Repository](raw/imperial-github.jpg)
-_RAPIDS open-source repository - manuscript currently in preparation_
+![Imperial RAPIDS Research](raw/imperial-research.png)
+_a) Project cover slide - Grid-Invariant AI for turbulent flow simulation | b) High-level workflow diagram of RAPIDS architecture | c) Open-source project released under official Imperial College London GitHub_
 
 This is ongoing research from my Imperial College MSc where I developed a grid-invariant AI architecture for turbulent flow simulation using PyTorch. I ran over 2,000 GPU hours of optimization and achieved 35% improvement in long-term stability and 50% better prediction accuracy. The project is backed by NVIDIA and automotive companies, and we are currently preparing the manuscript for publication.
 
