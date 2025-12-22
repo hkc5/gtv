@@ -52,7 +52,7 @@ Prof. Sitti explicitly addresses **potential for leadership** (the Promise stand
 **Professor Christopher Pain** (Reference Letter 2):
 
 - Professor at Imperial College London, Head of Applied Computation and Modelling Group (AMCG)
-- h-index of 62, recipient of Imperial College's Research Excellence Award
+- h-index of 62
 
 Prof. Pain explicitly addresses **potential** and future contributions:
 
@@ -79,7 +79,7 @@ Mr. Ozer explicitly addresses recognition and leadership potential:
 
 **Assessor's Statement:** _"The work at Albus Technologies is interesting, but we need more context to understand its significance. We also note that they were only in the role for 6 months."_
 
-**Processing Error:** The assessor overlooked the substantial commercial metrics provided in both the evidence documents and the CEO's reference letter:
+**Processing Error:** The assessor made a **factual error** - I was at Albus for **8 months** (May 2024 - January 2025), not 6 months. More importantly, the assessor overlooked the substantial commercial metrics provided in both the evidence documents and the CEO's reference letter:
 
 **From Evidence MC-1 (AlbusSystemImpact):**
 
@@ -93,7 +93,7 @@ Mr. Ozer explicitly addresses recognition and leadership potential:
 
 > _"The RAG system Hakancan developed has become Albus's primary product offering and the foundation of our commercial success. Since deployment, we have achieved over 50,000 additional user registrations on our platform, with more than 10,000 active users directly utilising Hakancan's RAG system. The system has processed over 500,000 documents through his semantic extraction pipelines."_
 
-The duration of 6 months is irrelevant when the **impact** is this substantial. The Tech Nation guide emphasizes **impact and recognition**, not tenure. Building a system that serves 220,000+ users and becomes a company's "primary product offering and foundation of commercial success" in 6 months demonstrates exceptional ability, not a limitation.
+Beyond the factual error on duration, tenure is irrelevant when the **impact** is this substantial. The Tech Nation guide emphasizes **impact and recognition**, not tenure. Building a system that serves 220,000+ users and becomes a company's "primary product offering and foundation of commercial success" demonstrates exceptional ability regardless of timeframe.
 
 ---
 
@@ -108,6 +108,8 @@ The duration of 6 months is irrelevant when the **impact** is this substantial. 
 
 For an **Exceptional Promise** applicant who the assessor acknowledges is "at an early stage of their career," earning double the graduate median at Amazon (a FAANG company) IS materially high and DOES signal rare skill. The assessor appears to have applied Exceptional Talent salary expectations to an Exceptional Promise application.
 
+The market continues to validate my compensation level - I have since received offers exceeding £125,000 base salary plus equity, demonstrating that the market recognizes my skills as rare. However, even setting this aside, my £85,250 compensation at the time of application was already 2x the UK graduate median and clearly meets the threshold for Exceptional Promise.
+
 The Tech Nation guide states: _"You command a high salary or other remuneration for your services"_ as evidence of recognition. For someone early in their career, £85,250 clearly meets this threshold.
 
 ---
@@ -116,16 +118,16 @@ The Tech Nation guide states: _"You command a high salary or other remuneration 
 
 **Assessor's Statement:** *"We congratulate their ranking in their Mechanical Engineering course, but this is *education* and not relevant to MC."*
 
-**Processing Error:** The assessor mischaracterized this evidence. My academic achievement was:
+**Processing Error:** The assessor mischaracterized this evidence. My academic achievement was **unprecedented**:
 
 - **Ranked #1** in Mechanical Engineering at Koç University
 - **3.99/4.00 GPA**
-- **First student in university history** to complete a 4-year degree in 3 years
+- **First student in the university's history** to complete a 4-year engineering degree in 3 years - an unprecedented achievement that has never been replicated
 - **Full merit scholarship** ($30,000 annually)
 
-This is not merely "education" - it is **competitive recognition** that demonstrates exceptional ability. The Tech Nation guide explicitly includes _"awards received for outstanding applied work, supported by excellent academic achievement (a first-class degree or distinction)"_ as relevant evidence for OC4, demonstrating that academic excellence IS considered relevant recognition.
+This is not merely "education" - it is **exceptional competitive recognition**. The Tech Nation guide explicitly includes _"awards received for outstanding applied work, supported by excellent academic achievement (a first-class degree or distinction)"_ as relevant evidence, demonstrating that academic excellence IS considered relevant recognition.
 
-Moreover, this achievement enabled my acceptance to Max Planck Institute and Imperial College London - both highly competitive institutions that recognized my exceptional ability.
+This unprecedented achievement directly enabled my acceptance to the Max Planck Institute for Intelligent Systems and Imperial College London - both highly competitive institutions that recognized my exceptional ability based on this track record.
 
 ---
 
@@ -205,14 +207,16 @@ This is exactly what the guide requests: structured programs with documented out
 - **4% memory optimization** for **200M+ devices**
 - **Over 1% of world's population** runs my code
 
-**From Evidence OC3-2 (PrimeVideoLLMAgent):**
+**From Evidence OC3-2 (Automated Oncall Investigation Platform):**
 
-- Built LLM agent platform for real-time analysis of **10M+ operational metrics**
+- Built automated platform for operational metrics analysis, **saving hundreds of engineering hours** on incident diagnosis
 - **Won "Most Innovative Award"** at Amazon's London-wide hackathon
 - Platform now **used in production** for internal ticket resolution
-- Supervised Imperial College intern who received return offer
+- Supervised Imperial College intern who received return offer based on extending this work
 
-Affecting **200 million devices** and **100 million customers** at one of the world's largest technology companies IS extraordinary commercial impact. The assessor appears to have confused "extraordinary" with "founding a company" rather than recognizing that optimizing systems at this scale demonstrates significant technical contribution.
+Affecting **200 million devices** and **100 million customers** at one of the world's largest technology companies IS extraordinary commercial impact. Due to Amazon's confidentiality requirements, I cannot disclose specific revenue figures, but performance improvements of this magnitude (20% UI speed, 4% memory) for 200M+ devices generate **significant commercial value** - this is precisely why FAANG companies invest heavily in performance engineering.
+
+The assessor appears to have confused "extraordinary" with "founding a company" rather than recognizing that optimizing systems at this scale demonstrates significant technical contribution.
 
 The Tech Nation guide for OC3 states: _"Having led in the development of high-impact digital products or services"_ and _"Having worked as a key engineer in the core product of a start-up, showing evidence as to how you have contributed to its success."_
 
@@ -236,7 +240,7 @@ My Prime Video work directly matches: high-impact digital product (Prime Video),
 **For Albus:**
 
 - CEO Murat Ozer's reference letter with specific metrics (independent corroboration)
-- Pinecone vector database metrics (third-party system)
+- Qdrant vector database metrics (third-party system)
 - User growth statistics from platform analytics
 
 The CEO of a company confirming specific commercial metrics IS objective and independent corroboration. The assessor cannot simultaneously dismiss the reference letter evidence while demanding "independent corroboration" - the letters ARE that corroboration.
